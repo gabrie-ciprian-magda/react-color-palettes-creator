@@ -5,4 +5,4 @@
 
 ***
 
-Clone or download repository and run `npm i` and then `npm start` to run the react project.
+Clone or download repository and run `npm i` to install dependencies and then `npm start` to run the react project.
